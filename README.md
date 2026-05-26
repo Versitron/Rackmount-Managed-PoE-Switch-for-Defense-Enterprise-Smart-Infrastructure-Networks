@@ -29,7 +29,7 @@ The emergency response communication switch system, public security fiber uplink
 
 ## Industrial Backbone PoE Switching System for Defense & Military Networks
 
-The defense-grade managed industrial PoE switch supports secure communication across military installations, surveillance systems, and tactical command environments. It ensures reliable switching performance in mission-critical defense operations.
+The defense-grade managed industrial PoE switch and [rugged industrial Gigabit switch](https://www.versitron.com/products/sg72060mp-20-port-managed-poe-poe-plus-switch) supports secure communication across military installations, surveillance systems, and tactical command environments. It ensures reliable switching performance in mission-critical defense operations.
 
 The tactical Ethernet switching platform for military systems enables stable data routing between battlefield communication nodes, command centers, and surveillance infrastructure.
 
@@ -86,7 +86,9 @@ Organizations choose VERSITRON for proven performance, scalable design, and depe
 
 ## Contact Versitron for More Information
 
-For product specifications, technical support, or deployment consultation regarding rackmount managed PoE switches, please visit [Versitron Contact Page](https://www.versitron.com/pages/contact)
+For product specifications, technical support, or deployment consultation regarding rackmount managed PoE switches, please visit    
+
+[Versitron Contact Page](https://www.versitron.com/pages/contact)
 
 Our team supports defense communication systems, industrial automation networks, enterprise infrastructure deployments, and smart city communication platforms. We assist with system design, configuration, and optimization of managed switching architectures.
 
